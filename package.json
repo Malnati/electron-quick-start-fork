@@ -20,6 +20,6 @@
     "electron": "27.0.3"
   },
   "dependencies": {
-    "react-admin": "^4.15.3"
+    "react-admin": "4.15.3"
   }
 }
