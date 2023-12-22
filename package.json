@@ -17,6 +17,6 @@
   "author": "GitHub",
   "license": "MIT",
   "devDependencies": {
-    "electron": "27.0.3"
+    "electron": "28.1.0"
   }
 }
